@@ -22,7 +22,7 @@
     "jsonwebtoken":"latest",
     "request":"latest",
     "nodemailer":"latest",
-    "socket.io":"2.0.3",
+    "socket.io":"2.5.0",
     "node-schedule": "^1.2.4"
   }
 }
